@@ -1,8 +1,10 @@
--#!/bin/sh     
-ssh seconduser@161.35.44.26 <<EOF       
- cd /nginx_task 
- git pull      
- npm install --production      
- pm2 restart all
- exit      
+-#!/bin/sh   
+ssh seconduser@161.35.44.26 <<EOF
+cd /nginx_task 
+git pull      
+npm install  
+npm run build
+sudo service nginx restart   
+pm2 restart all
+exit      
 EOF
