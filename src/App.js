@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn DevOps...
+          Learn DevOps and ...
         </a>
         <p>Should work?</p>
       </header>
