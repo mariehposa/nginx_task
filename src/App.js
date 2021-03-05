@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn DevOps and ...
+          Learn DevO and .jnfljsndnjl..
         </a>
       </header>
     </div>
