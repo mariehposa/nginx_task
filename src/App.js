@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn DevOps and ...
+          Yes, I did it!!!
         </a>
       </header>
     </div>
