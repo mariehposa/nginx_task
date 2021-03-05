@@ -14,7 +14,6 @@ function App() {
         >
           Learn DevOps and ...
         </a>
-        <p>Should work?</p>
       </header>
     </div>
   );
