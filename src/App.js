@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn DevOps and ...
+          Learn DevOps and ... test jenkins deploy
         </a>
       </header>
     </div>
